@@ -1,0 +1,30 @@
+*{ 
+    background-color: white
+    ;
+}
+
+section¨{
+    color:blue
+}
+.padre{
+    display: flex;
+    border: solid blue;
+    justify-self:center;
+    padding:200px;
+
+
+
+}
+.hijo{
+    color:aqua;
+    background-color: aqua;
+    
+
+}
+
+img{
+    width:80px;
+    border-radius: 50%;
+    border: solid black;
+
+}
