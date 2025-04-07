@@ -8,14 +8,14 @@ section¨{
 }
 .padre{
     display: flex;
-    border: solid blue;
+    border: solid white;
     justify-self:center;
     padding:200px;
 
 
 
 }
-.hijo{
+.hijo1{
     color:aqua;
     background-color: aqua;
     
@@ -23,8 +23,28 @@ section¨{
 }
 
 img{
-    width:80px;
-    border-radius: 50%;
-    border: solid black;
+    width:20px;
+    border: none;
+    justify-self: center;
+}
+.hijo2{
+    background-color: orange;
+    color: orange;
 
 }
+.hijo3{
+    background-color: green;
+    color: green;
+}
+.mi-texto{
+    color: black;
+    background-color: transparent;
+    font-size: 10px;
+}
+
+
+
+
+
+
+
